@@ -4,6 +4,27 @@
   box-sizing: border-box;
 }
 
+.banner {
+  background-image: url(../../images/showcase.jpg);
+  height: 400px;
+  background-position: center center;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.banner #name {
+  font-size: 3.5rem;
+  font-weight: bold;
+  padding: 1.5rem;
+}
+.banner #description {
+  font-size: 1.2rem;
+  line-height: 2rem;
+}
+
 .navbar {
   background-color: #343B41;
   color: #fff;

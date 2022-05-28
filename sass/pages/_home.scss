@@ -1,0 +1,23 @@
+.banner{
+    background-image: url(../../images/showcase.jpg);
+    height: 400px;
+    background-position: center center;
+    background-size: cover;
+    color: $secondaryColor;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    #name{        
+        font-size: 3.5rem;
+        font-weight: bold;
+        padding: 1.5rem;
+    }
+
+    #description{
+        font-size: 1.2rem;
+        line-height: 2rem;      
+    }
+
+}
