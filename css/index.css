@@ -14,6 +14,7 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
+  height: 40vh;
 }
 .banner #name {
   font-size: 3.5rem;
@@ -31,6 +32,7 @@
   align-items: center;
   justify-content: space-around;
   padding: 2.5rem;
+  height: 12vh;
 }
 .subscribe p {
   color: #fff;
@@ -58,6 +60,7 @@
   text-align: center;
   justify-content: center;
   background-color: #E6E6E6;
+  height: 25vh;
 }
 .logo .box {
   margin-top: 20px;
@@ -74,21 +77,13 @@
   width: 90px;
 }
 
-footer {
-  border-top: 3px solid #A9508B;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  height: 140px;
-}
-
 .navbar {
   background-color: #35424A;
   color: #fff;
   display: flex;
   justify-content: space-around;
   border-bottom: 4px solid #A9508B;
+  height: 8vh;
 }
 .navbar .left-navbar {
   display: flex;
@@ -125,8 +120,19 @@ footer {
   color: #fff;
 }
 
+footer {
+  border-top: 3px solid #A9508B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 15vh;
+  background-color: #35424A;
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
+  background-color: #E6E6E6;
 }
 
 /*# sourceMappingURL=index.css.map */

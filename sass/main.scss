@@ -4,9 +4,9 @@
 
 @import "./pages/about", "./pages/home", "./pages/services";
 
-@import "./component/footer", "./component/nav", "./component/responsive";
+@import "./component/nav", "./component/footer", "./component/responsive";
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    
+    background-color: $bgCard;
 }

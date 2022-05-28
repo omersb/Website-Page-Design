@@ -8,6 +8,8 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
+    height: 40vh;
+    
 
     #name{        
         font-size: 3.5rem;
@@ -28,7 +30,7 @@
     align-items: center;
     justify-content: space-around;
     padding: 2.5rem;
-    
+    height: 12vh;
     p{
         color: $secondaryColor;
         font-size: 1.5rem;
@@ -58,6 +60,7 @@
     text-align: center;
     justify-content: center;
     background-color: $bgCard;
+    height: 25vh;
     .box{
         margin-top: 20px;
         padding: 25px 0;
