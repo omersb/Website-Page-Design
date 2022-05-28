@@ -29,7 +29,7 @@ Project aims to create a website page.
 
 ## Expected Outcome
 
-![[[Project 006 Snapshot](https://github.com/clarusway/clarusway-full-stack-11-22/blob/main/html-css/projects/006-Website-Page-Design/Project_006_1.png?raw=true)](https://github.com/clarusway/clarusway-full-stack-11-22/blob/main/html-css/projects/006-Website-Page-Design/Project_006_1.png?raw=true)
+![Project 004 Snapshot](Project_004_1.png)
 
 ![Project 006 Snapshot](Project_006_2.png)
 
