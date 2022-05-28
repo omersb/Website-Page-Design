@@ -27,7 +27,7 @@ Project aims to create a website page.
 
 ## Expected Outcome
 
-![Project 004 Snapshot](Project_004_1.png)
+![Project 006 Snapshot](Project_006_1.png)
 
 ![Project 006 Snapshot](Project_006_2.png)
 
