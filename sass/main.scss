@@ -1,0 +1,7 @@
+@import "./abstracts/variables", "./abstracts/mixin";
+
+@import "./base/reset";
+
+@import "./pages/about", "./pages/home", "./pages/services";
+
+@import "./component/footer", "./component/nav", "./component/responsive";
