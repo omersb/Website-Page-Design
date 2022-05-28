@@ -8,7 +8,46 @@
   background-color: #343B41;
   color: #fff;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
+  border-bottom: 4px solid #A9508B;
+}
+.navbar .left-navbar {
+  display: flex;
+  align-items: center;
+}
+.navbar .left-navbar h1 {
+  margin: 25px;
+  font-size: 2rem;
+}
+.navbar .left-navbar h1 span {
+  color: #A9508B;
+}
+.navbar .right-navbar {
+  display: flex;
+  align-items: center;
+}
+.navbar .right-navbar ul {
+  display: flex;
+  list-style: none;
+}
+.navbar .right-navbar ul .active {
+  color: #A9508B;
+}
+.navbar .right-navbar ul li {
+  padding: 0 1.5rem;
+}
+.navbar .right-navbar ul li a {
+  font-size: 1.1rem;
+  text-decoration: none;
+  color: #fff;
+  text-transform: uppercase;
+}
+.navbar .right-navbar ul li a:hover {
+  color: #fff;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 /*# sourceMappingURL=index.css.map */
