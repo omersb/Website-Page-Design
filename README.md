@@ -2,8 +2,6 @@
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 # Project-006 : Website Page Design
 
-
-
 ## Description
 
 Project aims to create a website page.
@@ -12,7 +10,7 @@ Project aims to create a website page.
 
 - Your company has recently started on a project that aims to create a company website page. So you and your colleagues have started to work on the project.
 
-## Project Skeleton 
+## Project Skeleton
 
 ```
 006-website-page-design (folder)
@@ -23,7 +21,7 @@ Project aims to create a website page.
         |----index.html  
         |----style.css   
         |----about.html  
-        |----services.html 		
+        |----services.html   
         |----images (folder)
 ```
 
@@ -39,13 +37,13 @@ Project aims to create a website page.
 
 Build a Landing same as in the example images.
 
-### At the end of the project, following topics are to be covered;
+### At the end of the project, following topics are to be covered
 
-- HTML 
+- HTML
 
 - CSS
 
-### At the end of the project, students will be able to;
+### At the end of the project, students will be able to
 
 - improve coding skills within HTML & CSS
 
@@ -53,7 +51,7 @@ Build a Landing same as in the example images.
 
 ## Steps to Solution
 
-- Step 1: Download or clone project repo on Github 
+- Step 1: Download or clone project repo on Github
 
 - Step 2: Create project folder for local public repo on your pc
 
@@ -61,15 +59,15 @@ Build a Landing same as in the example images.
 
 >>Part-1 HTML Structure
 
-	- Creat structure of the HTML5
-	- Give name of your project (title)
-	- Create the main structur of the HTML
+ - Creat structure of the HTML5
+ - Give name of your project (title)
+ - Create the main structur of the HTML
 
 >>Part-2 CSS Structure
 
-	- Set a background
-	- Set container background color and margin
-	- Define others color-size-padding etc...
+ - Set a background
+ - Set container background color and margin
+ - Define others color-size-padding etc...
 
 - Step 4: Push your application into your own public repo on Github
 
@@ -81,7 +79,6 @@ Build a Landing same as in the example images.
 
 ## Resources
 
--  [Images](./img)
-
+- [Images](./img)
 
 <center> ⌛ Happy Coding  ✍ </center>
