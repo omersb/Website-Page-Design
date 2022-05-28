@@ -56,7 +56,7 @@
 .logo {
   display: flex;
   text-align: center;
-  border-bottom: 3px solid #A9508B;
+  background-color: #E6E6E6;
 }
 .logo .box {
   margin-top: 20px;
@@ -70,6 +70,15 @@
 }
 .logo .box img {
   width: 90px;
+}
+
+footer {
+  border-top: 3px solid #A9508B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 140px;
 }
 
 .navbar {

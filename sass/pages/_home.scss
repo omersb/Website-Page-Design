@@ -56,8 +56,7 @@
 .logo{
     display: flex;
     text-align: center;
-    border-bottom: 3px solid $primaryColor;
-
+    background-color: $bgCard;
     .box{
         margin-top: 20px;
         padding: 25px 0;
